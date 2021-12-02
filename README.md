@@ -1,5 +1,5 @@
 # Description
-This repository contains four Jupyter notebookes with code to reproduce the results and plots of the paper "Prediction of Michaelis constants KM from structural features".
+This repository contains four Jupyter notebookes with code to reproduce the results and plots of the paper "Baseline Model for Predicting Protein–Ligand Unbinding Kinetics through Machine Learning".
 
 ## Requirements
 
